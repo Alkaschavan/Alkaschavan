@@ -24,6 +24,10 @@
 
 ## 🌟 Projects
 
+### ✅ Task Manager App
+Full CRUD task management with add, complete, and delete functionality.
+- **Live:** [alkaschavan.github.io/task-manager](https://alkaschavan.github.io/task-manager)
+
 ### 🛍️ Alka's Fashion Boutique
 A fully functional fashion e-commerce store built with React and Tailwind CSS.
 - Add to cart, remove items, quantity management, live total
